@@ -1,1 +1,1 @@
-# VGA Controller
+# VGA Controller FPGA
