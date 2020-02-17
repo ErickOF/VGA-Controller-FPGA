@@ -1,0 +1,6 @@
+module HCounter (input logic clk_25MHz,
+                  output logic [14:0] h_counter_value);
+
+// 
+
+endmodule // HCounter

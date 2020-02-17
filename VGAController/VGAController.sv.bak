@@ -1,0 +1,9 @@
+module VGAController (input  logic clk,
+                      output logic hsync,
+							 output logic vsync
+							 output logic [7:0] R,
+							 output logic [7:0] G,
+							 output logic [7:0] B);
+
+// 
+endmodule // VGAController

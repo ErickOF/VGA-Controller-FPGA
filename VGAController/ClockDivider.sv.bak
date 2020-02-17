@@ -1,0 +1,6 @@
+module ClockDiveder #(parameter div_value = 5000)
+                     (input  logic clk,
+                      output logic divided_clk);
+
+// 
+endmodule // VGAController

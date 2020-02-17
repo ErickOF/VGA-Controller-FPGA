@@ -1,0 +1,6 @@
+module VCounter (input logic clk_25MHz,
+                  output logic [14:0] v_value);
+
+// 
+
+endmodule // VCounter
